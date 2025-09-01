@@ -6,7 +6,6 @@
 - Tailwind CSS
 
 Press this link running locally 
-Link:http://localhost:5176/
-
+ Local:   http://localhost:5173/
 
 ![Image](https://github.com/user-attachments/assets/f4053e8b-4385-420a-8bec-cb1390dac1aa)
