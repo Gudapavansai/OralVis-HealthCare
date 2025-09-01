@@ -1,11 +1,13 @@
-Techoglogies are used
-1.vite
-2.React js
-3.javascript 
-4.shadcn/ui
+## technologies are used for this project?
+- Vite
+- JavaScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-Press this link running locally
+Press this link running locally 
 Link:http://localhost:5176/
 
 
+##screenshorts:
 
